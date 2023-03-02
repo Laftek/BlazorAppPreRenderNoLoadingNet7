@@ -9,4 +9,4 @@ chmod u+x /tmp/dotnet-install.sh
 popd
 
 ## publish project to known location for subsequent deployment by Netlify
-dotnet publish -c Release BlazorAppPreRenderNoLoadingNet7/BlazorAppPreRenderNoLoadingNet7.csproj -o release/BlazorAppPreRenderNoLoadingNet7
+dotnet publish BlazorAppPreRenderNoLoadingNet7.csproj -c Release -o release --nologo
