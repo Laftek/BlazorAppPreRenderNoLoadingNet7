@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "kSFJ27uFaAZTwxnEV4bfyM+khUSDWqTpvp4QPQmL8xZrx6S/9aYuFDcybgXXylsrmB8BLyPkwEIRECXqR6MnnA==",
+  "dgSpecHash": "P92DMn31lSFDu1meIprnYjueXkPot9OMhPfjtlEPILz13XC63llfinzz6u0LgsG1LXuz0kzP7qgrzVpDu1PeqA==",
   "success": true,
   "projectFilePath": "M:\\Programming\\Blazor\\BlazorAppPreRenderNoLoadingNet7\\BlazorAppPreRenderNoLoadingNet7.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Artur\\.nuget\\packages\\blazorwasmprerendering.build\\2.0.0-preview.7\\blazorwasmprerendering.build.2.0.0-preview.7.nupkg.sha512",
     "C:\\Users\\Artur\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.0\\microsoft.aspnetcore.authorization.7.0.0.nupkg.sha512",
     "C:\\Users\\Artur\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.0\\microsoft.aspnetcore.components.7.0.0.nupkg.sha512",
     "C:\\Users\\Artur\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\7.0.0\\microsoft.aspnetcore.components.analyzers.7.0.0.nupkg.sha512",
