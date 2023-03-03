@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SqG125e4tVooonppjpz4gdo9oThsXlBNGzIbkg4m5i8aJbwoyklgaFAE/rLm9cC6sAWKxT1nj5mMavhMhSv8eg==",
+  "dgSpecHash": "P92DMn31lSFDu1meIprnYjueXkPot9OMhPfjtlEPILz13XC63llfinzz6u0LgsG1LXuz0kzP7qgrzVpDu1PeqA==",
   "success": true,
   "projectFilePath": "M:\\Programming\\Blazor\\BlazorAppPreRenderNoLoadingNet7\\BlazorAppPreRenderNoLoadingNet7.csproj",
   "expectedPackageFiles": [
@@ -29,7 +29,6 @@
     "C:\\Users\\Artur\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "C:\\Users\\Artur\\.nuget\\packages\\microsoft.jsinterop\\7.0.0\\microsoft.jsinterop.7.0.0.nupkg.sha512",
     "C:\\Users\\Artur\\.nuget\\packages\\microsoft.jsinterop.webassembly\\7.0.0\\microsoft.jsinterop.webassembly.7.0.0.nupkg.sha512",
-    "C:\\Users\\Artur\\.nuget\\packages\\publishspaforgithubpages.build\\2.0.2\\publishspaforgithubpages.build.2.0.2.nupkg.sha512",
     "C:\\Users\\Artur\\.nuget\\packages\\system.io.pipelines\\7.0.0\\system.io.pipelines.7.0.0.nupkg.sha512",
     "C:\\Users\\Artur\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
     "C:\\Users\\Artur\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512",
