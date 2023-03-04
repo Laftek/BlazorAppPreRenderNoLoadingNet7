@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\BlazorAppPreRenderNoLoadingNet7.props" />
-</Project>
